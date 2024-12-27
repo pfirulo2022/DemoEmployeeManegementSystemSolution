@@ -1,6 +1,4 @@
-﻿ 
-
-namespace BaseLibrary.Entities
+﻿namespace BaseLibrary.Entities
 {
     public class GeneralDepartment : BaseEntity
     {
